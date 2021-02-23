@@ -10,9 +10,9 @@ namespace examen_ejercicio1
             double price = 0;
             Console.WriteLine("Ingrese el precio del articulo");
             price = Convert.ToDouble(Console.ReadLine());
-            Console.WriteLine("Ingrese la cantidad de articulo");
+            Console.WriteLine("Ingrese la cantidad del articulo");
             amount = Int32.Parse(Console.ReadLine());
-            Console.WriteLine("Tota: $" + price * amount);
+            Console.WriteLine("total a pagar" + Tota: $" + price * amount);
         }
     }
 }
