@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+24
+'Insertar los 4 digitos'
+5
+1
+14
+n1, n2, n3, n4
+6
+2
+4
+suma
+8
+n1 + n2 
+8
+producto
+7
+n3 * n4
+4
+1
+29
+'El resultado es suma:', suma
+4
+1
+37
+'El resultado es producto:', producto
+1
