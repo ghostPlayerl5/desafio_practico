@@ -12,7 +12,7 @@ namespace examen_ejercicio1
             price = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("Ingrese la cantidad del articulo");
             amount = Int32.Parse(Console.ReadLine());
-            Console.WriteLine("total a pagar" + Tota: $" + price * amount);
+            Console.WriteLine("Total a pagar: $" + price * amount);
         }
     }
 }
