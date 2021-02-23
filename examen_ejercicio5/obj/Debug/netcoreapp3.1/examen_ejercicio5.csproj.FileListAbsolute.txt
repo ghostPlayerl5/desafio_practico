@@ -1,0 +1,13 @@
+C:\Users\ivinr\OneDrive\Escritorio\Examen PRogra\examen_ejercicio5\examen_ejercicio5\bin\Debug\netcoreapp3.1\examen_ejercicio5.exe
+C:\Users\ivinr\OneDrive\Escritorio\Examen PRogra\examen_ejercicio5\examen_ejercicio5\bin\Debug\netcoreapp3.1\examen_ejercicio5.deps.json
+C:\Users\ivinr\OneDrive\Escritorio\Examen PRogra\examen_ejercicio5\examen_ejercicio5\bin\Debug\netcoreapp3.1\examen_ejercicio5.runtimeconfig.json
+C:\Users\ivinr\OneDrive\Escritorio\Examen PRogra\examen_ejercicio5\examen_ejercicio5\bin\Debug\netcoreapp3.1\examen_ejercicio5.runtimeconfig.dev.json
+C:\Users\ivinr\OneDrive\Escritorio\Examen PRogra\examen_ejercicio5\examen_ejercicio5\bin\Debug\netcoreapp3.1\examen_ejercicio5.dll
+C:\Users\ivinr\OneDrive\Escritorio\Examen PRogra\examen_ejercicio5\examen_ejercicio5\bin\Debug\netcoreapp3.1\examen_ejercicio5.pdb
+C:\Users\ivinr\OneDrive\Escritorio\Examen PRogra\examen_ejercicio5\examen_ejercicio5\obj\Debug\netcoreapp3.1\examen_ejercicio5.csprojAssemblyReference.cache
+C:\Users\ivinr\OneDrive\Escritorio\Examen PRogra\examen_ejercicio5\examen_ejercicio5\obj\Debug\netcoreapp3.1\examen_ejercicio5.AssemblyInfoInputs.cache
+C:\Users\ivinr\OneDrive\Escritorio\Examen PRogra\examen_ejercicio5\examen_ejercicio5\obj\Debug\netcoreapp3.1\examen_ejercicio5.AssemblyInfo.cs
+C:\Users\ivinr\OneDrive\Escritorio\Examen PRogra\examen_ejercicio5\examen_ejercicio5\obj\Debug\netcoreapp3.1\examen_ejercicio5.csproj.CoreCompileInputs.cache
+C:\Users\ivinr\OneDrive\Escritorio\Examen PRogra\examen_ejercicio5\examen_ejercicio5\obj\Debug\netcoreapp3.1\examen_ejercicio5.dll
+C:\Users\ivinr\OneDrive\Escritorio\Examen PRogra\examen_ejercicio5\examen_ejercicio5\obj\Debug\netcoreapp3.1\examen_ejercicio5.pdb
+C:\Users\ivinr\OneDrive\Escritorio\Examen PRogra\examen_ejercicio5\examen_ejercicio5\obj\Debug\netcoreapp3.1\examen_ejercicio5.genruntimeconfig.cache
